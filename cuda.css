@@ -65,6 +65,7 @@ body {
     border: none;
     border-radius: 5px;
     font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
 }
 
 .button {
@@ -221,6 +222,7 @@ hr {
 
 .social_media img:hover {
     box-shadow: 2px 2px 6px 2px grey;
+    border-radius: 50%;
 }
 
 .main_skills {
@@ -279,6 +281,11 @@ hr {
     position: relative;
     top: 15px;
     left: 15px;
+}
+
+.percentage {
+    position: relative;
+    top: 0;
 }
 
 .main_portfolio {
