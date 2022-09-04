@@ -263,6 +263,24 @@ hr {
     margin: 0%;
 }
 
+.black_circle {
+    background-color: black;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.white_circle {
+    background-color: white;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
 .main_portfolio {
     background-color: #FFDD99;
 }
@@ -294,6 +312,7 @@ hr {
     padding-top: 110.13px;
     justify-content: space-between;
 }
+
 
 .portfolio img {
     width: 515px;
@@ -403,8 +422,6 @@ hr {
     background-color: #3C5499;
 }
 
-
-
 .section_fill_in {
     padding-top: 107.5px;
     padding-bottom: 114.96px;
@@ -486,5 +503,23 @@ hr {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.list_social li a {
+    text-decoration: none;
+}
+
+.list_social li {
     list-style: none;
+}
+
+
+.contact {
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.list_social li a h4:hover {
+    color: #30BAE7;
 }
