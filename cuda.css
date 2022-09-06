@@ -54,7 +54,7 @@ body {
 }
 
 .section_hello{
-    padding-top: 133px;
+    margin-top: 133px;
     padding-bottom: 145px;
 }
 
@@ -69,7 +69,7 @@ body {
 }
 
 .button {
-    padding-top: 26px;
+    margin-top: 26px;
     display: flex;
     justify-content: center;
 }
@@ -104,7 +104,7 @@ hr {
     text-align: center;
     width: 577px;
     margin: 0 auto;
-    padding-top: 19px;
+    margin-top: 19px;
 }
 
 .multiple_services {
@@ -171,7 +171,7 @@ hr {
 
 .team_members {
     display: flex;
-    padding-top: 73.76px;
+    margin-top: 73.76px;
     justify-content: space-between;
 }
 
@@ -185,7 +185,7 @@ hr {
     font-size: 24px;
     text-align: center;
     margin: 0%;
-    padding-top: 34px;
+    margin-top: 34px;
 }
 
 .paragraph_title_member {
@@ -200,23 +200,21 @@ hr {
     font-size: 16px;
     text-align: center;
     margin: 0%;
-    padding-top: 9px;
+    margin-top: 9px;
 }
 
 .member img {
     width: 201px;
-    height: 200px;
 }
 
 .social_media {
     display: flex;
-    padding-top: 37px;
+    margin-top: 37px;
     justify-content: center;
 }
 
 .social_media img {
     width: 32.31px;
-    height: 100%;
     margin-right: 12px;
 }
 
@@ -251,7 +249,7 @@ hr {
 }
 
 .skills {
-    padding-top: 79.12px;
+    margin-top: 79.12px;
     display: flex;
     justify-content: space-between;
 }
@@ -325,7 +323,7 @@ hr {
 .portfolio {
     display: flex;
     flex-wrap: wrap;
-    padding-top: 110.13px;
+    margin-top: 110.13px;
     justify-content: space-between;
 }
 
@@ -387,7 +385,7 @@ hr {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-top: 83.13px;
+    margin-top: 83.13px;
 }
 
 .opinion {
