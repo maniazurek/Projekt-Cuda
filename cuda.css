@@ -330,6 +330,7 @@ hr {
 
 .portfolio img {
     width: 515px;
+    align-self: flex-start;
 }
 
 .portfolio img:nth-child(3) {
