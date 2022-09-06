@@ -265,12 +265,20 @@ hr {
     margin: 0%;
 }
 
+.circle_percentage {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
 .black_circle {
     background-color: black;
     width: 160px;
     height: 160px;
     border-radius: 50%;
     position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .white_circle {
@@ -278,14 +286,17 @@ hr {
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    position: relative;
+    position: absolute;
     top: 15px;
     left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .percentage {
-    position: relative;
-    top: 0;
+    font-size: 50px;
+    color: #3C4761;
 }
 
 .main_portfolio {
