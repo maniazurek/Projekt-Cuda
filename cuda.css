@@ -210,7 +210,8 @@ hr {
 
 .social_media img {
     width: 32.31px;
-    margin-right: 12px;
+    margin-right: 6px;
+    margin-left: 6px;
 }
 
 .social_media img:hover {
