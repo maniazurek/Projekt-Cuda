@@ -109,10 +109,9 @@ hr {
 
 .multiple_services {
     display: flex;
-    padding-top: 69px;
+    margin-top: 69px;
     justify-content: space-between;
     align-items: flex-end;
-    margin: 0%;
 }
 
 .title_service {
@@ -120,17 +119,14 @@ hr {
     color: #FFFFFF;
     font-weight: bold;
     text-align: center;
-    margin: 0;
-    padding-top: 55px;
-
+    margin-top: 55px;
 }
 
 .descr_service {
     color: #FFFFFF;
     font-size: 16px;
     text-align: center;
-    padding-top: 12.75px;
-    margin: 0%;
+    margin-top: 12.75px;
 }
 
 .service {
@@ -165,8 +161,7 @@ hr {
     color: #3C4761;
     font-size: 18.29px;
     text-align: center;
-    padding-top: 20.16px;
-    margin: 0 auto;
+    margin-top: 20.16px;
 }
 
 .team_members {
@@ -243,9 +238,9 @@ hr {
 .paragraph_skills {
     font-size: 18px;
     text-align: center;
-    margin: 0% auto;
+    margin: auto;
     width: 578.76px;
-    padding-top: 18.76px;
+    margin-top: 18.76px;
 }
 
 .skills {
@@ -259,8 +254,7 @@ hr {
     font-weight: bold;
     color: #3C4761;
     text-align: center;
-    padding-top: 25.25px;
-    margin: 0%;
+    margin-top: 25.25px;
 }
 
 .circle_percentage {
@@ -315,8 +309,8 @@ hr {
 .paragraph_portfolio {
     text-align: center;
     color: 18px;
-    margin: 0% auto;
-    padding-top: 18.87px;
+    margin: auto;
+    margin-top: 18.87px;
     width: 474.07px;
 }
 
@@ -342,7 +336,7 @@ hr {
 }
 
 .button_portfolio {
-    padding-top: 127px;
+    margin-top: 127px;
     display: flex;
     justify-content: center;
 }
@@ -378,8 +372,7 @@ hr {
     font-size: 18px;
     color: #FFFFFF;
     text-align: center;
-    padding-top: 18.87px;
-    margin: 0%;
+    margin-top: 18.87px;
 }
 
 .opinions {
@@ -395,7 +388,7 @@ hr {
 }
 
 .opinion_client {
-    padding-left: 48px;
+    margin-left: 48px;
     flex-direction: row;
     justify-content: space-between;
 }
@@ -451,11 +444,10 @@ hr {
 }
 
 .paragraph_fill_in {
-    padding-top: 18.88px;
+    margin-top: 18.88px;
     font-size: 18px;
     color: #FFFFFF;
     text-align: center;
-    margin: 0%;
 }
 
 .form {
@@ -493,7 +485,7 @@ hr {
 }
 
 .button_send_message {
-    padding-top: 59px;
+    margin-top: 59px;
     justify-content: center;
     display: flex;
 }
